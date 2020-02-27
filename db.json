@@ -2,13 +2,13 @@
   "prices": [
     {
       "id": 1,
-      "name": "ecs-flavour-1",
-      "amount": 7.03
+      "name": "cheapram",
+      "amount": 1.35
     },
     {
       "id": 2,
-      "name": "ecs-flavour-2",
-      "amount": 11.89
+      "name": "expensiveram",
+      "amount": 1.50
     } 
   ]
 }
