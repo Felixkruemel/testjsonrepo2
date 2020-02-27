@@ -1,0 +1,14 @@
+{
+  "prices": [
+    {
+      "id": 1,
+      "name": "ecs-flavour-1",
+      "amount": 7.52
+    },
+    {
+      "id": 1,
+      "name": "ecs-flavour-1",
+      "amount": 7.52
+    } 
+  ]
+}
